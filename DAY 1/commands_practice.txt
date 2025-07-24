@@ -1,0 +1,5 @@
+cd ~
+mkdir linux_practice
+cd linux_practice
+touch hello.txt
+ls -l
