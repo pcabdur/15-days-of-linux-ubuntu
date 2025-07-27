@@ -1,0 +1,12 @@
+| No. | Command / Concept                                | Purpose                             |
+| --- | -------------------------------------------------| ----------------------------------- |
+|1️⃣ | `ps`, `top`, `htop`     			 	 | View running processes              |
+|2️⃣ | `&`   						  | Run a process in the background             |
+| 3️⃣ | `jobs`    						  | List background jobs                           |
+| 4️⃣ | `fg`, `bg`											      | Bring jobs to foreground/background       |
+| 5️⃣ | `kill`, `killall`  											 | Terminate processes                              |
+| 6️⃣ | `nice`, `renice`											  | Set process priority                              |
+| 7️⃣ | `xkill`, `pkill` 											 | Kill by window or name                          |
+| 8️⃣ | `sleep`, `watch`, `timeout` 								 | Process timing tools                              |
+| 9️⃣ | `strace`, `lsof`, `pidof` 								     | Process inspection/debugging                 |
+| 🔟| Signals like `SIGKILL`, `SIGTERM`, `SIGHUP` 	 | Process signal types                |
